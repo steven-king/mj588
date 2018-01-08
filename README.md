@@ -1,7 +1,13 @@
 
 # MJ588 Emerging Technologies 
 
-Advanced Web programming and storytelling for the Web with focus on data visualization and data storytelling. Students will use learn Python,JavaScript and other web publishing languages while creating interactive storytelling and data visualization projects. Students will collect and incorporate data via APIs, datasets, databases and web scraping along with photos, text, video and graphics to create interactive multimedia presentations using advanced Python and javascript concepts, libraries and frameworks such as D3.js, Flask and Pandas 
+This course will introduce students to storytelling with emerging technologies used in storytelling in Augmented Reality, Virtual Reality, 360 Video, robots, drones and other new technologies. Students will have the opportunity to learn and work with the latest VR hardware including the Oculus Rift and the HTC Vive.
 
-This course will expand on the knowledge and skills learned in J586 and multimedia design by increasing your ability to develop and present media, specifically data. You will learn to collect and process data in Python and Pandas and then get  a deeper level of JavaScript and how to use and implement D3 (JavaScript Framework).
+Student will learn
+	Media Product Design Concepts (Human Centered Design)
+	How Virtual Reality Works with the brain
+	What makes a good VR and AR Experience
+	Storytelling in both 360 video, AR and VR. 
+	Technical skills to produce storytelling including drones and robots
 
+Producing effective interactive media projects requires extensive and detailed skill sets. This class will teach skills in shooting and editing drone video, 360 video, creating virtual environments in Unity, file generations for multiple platforms and build on critical, ethical and journalistic decision-making to generate quality interactive storytelling.
