@@ -14,6 +14,10 @@ Producing effective interactive media projects requires extensive and detailed s
 
 
 ## Resources
+
+Drone Course
+https://remotepilot101.com/ use code UNC20 for 20% off, Ends January 31st.
+
 Access to Labs: 
 http://jhelp.web.unc.edu/access/
 
