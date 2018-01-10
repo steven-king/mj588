@@ -11,3 +11,15 @@ Student will learn
 * Technical skills to produce storytelling including drones and robots
 
 Producing effective interactive media projects requires extensive and detailed skill sets. This class will teach skills in shooting and editing drone video, 360 video, creating virtual environments in Unity, file generations for multiple platforms and build on critical, ethical and journalistic decision-making to generate quality interactive storytelling.
+
+
+## Resources
+Access to Labs: 
+http://jhelp.web.unc.edu/access/
+
+Adobe Software
+http://software.sites.unc.edu/adobe/
+
+Lynda Login
+http://software.sites.unc.edu/lynda/
+
